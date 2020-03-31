@@ -6,6 +6,8 @@ public class gitEclipseClass {
 		
 		//Short cut for bellow. Write sysout and than press the ctrl + space
 		System.out.println("Say hello to GIT using Eclipse");
+		
+		System.out.println("Second commit from Eclipse");
 
 	}
 
