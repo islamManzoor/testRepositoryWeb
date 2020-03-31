@@ -8,6 +8,8 @@ public class gitEclipseClass {
 		System.out.println("Say hello to GIT using Eclipse");
 		
 		System.out.println("Second commit from Eclipse");
+		
+		System.out.println("Third commit from Web");
 
 	}
 
